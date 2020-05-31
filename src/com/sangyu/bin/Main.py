@@ -9,5 +9,4 @@ from com.sangyu.utils.EmailUtils import send_mail
 if __name__ == '__main__':
     # execution_case = ExecutionCase()
     # execution_case.runWithCase()
-    # 注释
     send_mail()
